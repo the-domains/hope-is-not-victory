@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[hope is not victory]]></title>
         <description><![CDATA[hope is not victory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hope-is-not-victory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 14:18:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 14:19:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hope-is-not-victory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">cd7ca771-0546-4a8a-844a-f90fc9864d6e</guid>
+            <title><![CDATA[Test post]]></title>
+            <description><![CDATA[<article><h1>Test post</h1><p>Test</p></article>]]></description>
+            <link>https://thegrid.ai/hope-is-not-victory/test-post/index.html</link>
+            <guid isPermaLink="false">d823c108-e4d2-40d1-97fd-69c5a21274d4</guid>
             <pubDate>Mon, 14 Dec 2015 14:18:22 GMT</pubDate>
         </item>
     </channel>
