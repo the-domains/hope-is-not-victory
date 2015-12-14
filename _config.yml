@@ -1,7 +1,7 @@
 name: hope is not victory
 favicon: null
-layout_spectrum: 0.6615979564376175
-typography_spectrum: 0.2502774598542601
+layout_spectrum: 0.92585
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#737373'
+    - '#c9c9c9'
+    - '#3d3d3d'
+    - '#060606'
   brandStrength: 0.45329459058120847
   lightness: 0.08996931230649352
   saturation: 0.07183027430437505
